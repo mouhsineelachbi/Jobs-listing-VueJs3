@@ -2,6 +2,7 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link :to="{ name: 'About'}">About</router-link> <!-- we can bind It to an object -->
+    <router-link :to="{ name: 'jobs' }">Jobs</router-link>
   </div>
   <router-view/>
 </template>
