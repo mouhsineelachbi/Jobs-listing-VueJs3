@@ -1,4 +1,4 @@
-# jobs
+# Job Lister
 
 ## Project setup
 ```
